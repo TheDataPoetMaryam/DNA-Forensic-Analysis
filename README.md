@@ -1,4 +1,5 @@
 # 🧬 DNA Forensic Analysis using Statistical Inference
+### > A statistical approach to forensic DNA analysis combining probability theory and Bayesian inference.
 
 ## 📌 Overview
 This project implements a statistical framework for forensic DNA analysis to identify the most probable suspect based on DNA evidence.
